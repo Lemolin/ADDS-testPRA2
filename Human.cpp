@@ -10,7 +10,7 @@ Move* Human::makeMove() {
 	string m_move;
 
 	//while (1) {
-		cout << "Enter a Move:";
+		//cout << "Enter a Move:";
 		cin >> m_move;
 
 		//bool isIn = false;
